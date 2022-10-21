@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.great{
+    width: 80px;
+    
+}
+#nameerr,#fnameerr,#ageerr,#contacterr,#addresserr{
+    
+    color: red;
+}
